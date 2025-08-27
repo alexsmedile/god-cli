@@ -16,5 +16,3 @@ Key features:
 
 Inspired by:
 https://www.reddit.com/r/ChatGPTCoding/comments/1lm3fxq/gemini_cli_is_awesome_but_only_when_you_make/
-
-GOD CLI ensures you get that power without chaos.
